@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="TESTING2_system-bitFile" value="D:\ECE544\project\project_2\project_2.runs\impl_1\nexysa7fpga.bit"/>
+	<item key="TESTING2_system-bmmFile" value="${project_loc:TESTING2}/_ide/bitstream/nexysa7fpga.mmi"/>
+	<item key="TESTING2_system-target" value="Local"/>
+	<item key="TESTING2_system-device" value="Auto Detect"/>
+	<item key="TESTING2_system-partial_bit" value="false"/>
+	<item key="TESTING2_system-skip_rev_check" value="false"/>
+	<item key="programfpga.sdxproject" value="TESTING2_system"/>
+	<item key="TESTING2_system-microblaze_0-initElf" value="bootloop"/>
+	<item key="devices_info_Local" value="{&quot;cables&quot;:[{&quot;name&quot;:&quot;Digilent Nexys4DDR 210292A8AEAAA&quot;,&quot;indexContextMap&quot;:{&quot;2&quot;:&quot;jsn-Nexys4DDR-210292A8AEAAA-13631093-0&quot;}}]}"/>
+</section>
