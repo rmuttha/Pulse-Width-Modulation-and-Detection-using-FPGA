@@ -1,4 +1,4 @@
-# ECE 544 Embedded System Design with FPGA - Project 1
+# ECE 544 Embedded System Design with FPGA - Pulse Width Modulation and Detection
 
 ## Project Overview
 
