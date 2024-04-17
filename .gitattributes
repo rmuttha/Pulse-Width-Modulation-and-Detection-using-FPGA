@@ -1,2 +1,5 @@
-*.html linguist-detectable=false
-docs/* linguist-detectable=false
+*.sv linguist-language=SystemVerilog
+*.c linguist-language=C
+
+some-directory/* linguist-vendored
+path/to/some/file linguist-vendored=true
