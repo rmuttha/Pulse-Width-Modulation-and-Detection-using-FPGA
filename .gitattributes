@@ -1,4 +1,2 @@
-*.sv linguist-language=SystemVerilog
-*.c linguist-language=C
 * .vdhl linguist-detectable=false
 * .vhd linguist-detectable=false
