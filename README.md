@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Project #1, led by Rutuja Muttha (rmuttha@pdx.edu), centers on replacing the MicroBlaze MCS and IOModule with a more advanced MicroBlaze/AXI-based system. The project involves hands-on experience with Pulse Width Modulation (PWM) detection and interrupt handling on FPGA platforms. By utilizing IPs from Xilinx, Digilent, and ProfRoyK, the project specifically focuses on manipulating and monitoring the RGB LEDs on a Nexys4IO board, using PWM signals to drive and analyze LED behavior.
+This projects centers on replacing the MicroBlaze MCS and IOModule with a more advanced MicroBlaze/AXI-based system. The project involves hands-on experience with Pulse Width Modulation (PWM) detection and interrupt handling on FPGA platforms. By utilizing IPs from Xilinx, Digilent, and ProfRoyK, the project specifically focuses on manipulating and monitoring the RGB LEDs on a Nexys4IO board, using PWM signals to drive and analyze LED behavior.
 
 ## Key Features
 
